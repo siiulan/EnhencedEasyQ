@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EnhencedEasyQ/static/css/main.b90ba77e.css",
+    "main.js": "/EnhencedEasyQ/static/js/main.7649c5fb.js",
+    "index.html": "/EnhencedEasyQ/index.html",
+    "main.b90ba77e.css.map": "/EnhencedEasyQ/static/css/main.b90ba77e.css.map",
+    "main.7649c5fb.js.map": "/EnhencedEasyQ/static/js/main.7649c5fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90ba77e.css",
+    "static/js/main.7649c5fb.js"
+  ]
+}
