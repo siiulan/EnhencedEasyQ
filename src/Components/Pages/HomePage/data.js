@@ -6,10 +6,10 @@ export const homeObjOne = {
     headline: 'get into the office hour queue with one click',
     description: 'Get dynamic information of current office hour queue info, and save yoru time remebering when you are the next',
     buttonLabel: 'Get Started',
-    imgStart: '',
     //img: 'images/svg-1.svg',
-    img: 'images/student-homepgae.svg',
-    alt: 'Credit Card'
+    img: '/images/student-homepgae.svg',
+    alt: 'Credit Card',
+    imgStart: ''
 };
 
 export const homeObjTwo = {
@@ -22,7 +22,7 @@ export const homeObjTwo = {
     buttonLabel: 'Start office hour',
     imgStart: 'start',
     //img: 'images/svg-1.svg',
-    img: 'images/TA-queue.svg',
+    img: '/images/TA-queue.svg',
     alt: 'student line up'
 };
 
@@ -36,7 +36,7 @@ export const homeObjThree = {
     buttonLabel: 'Get Started',
     imgStart: '',
     //img: 'images/svg-1.svg',
-    img: 'images/campus.svg',
+    img: '/images/campus.svg',
     alt: 'campus'
 };
 
